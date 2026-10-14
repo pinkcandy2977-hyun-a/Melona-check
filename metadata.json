@@ -1,0 +1,6 @@
+{
+  "name": "메로나 Check!",
+  "description": "매일 해야 할 일을 실천하고 메로나 포인트를 모아 네이버페이 포인트와 기프티콘으로 교환하는 데일리 투두 트래커",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
